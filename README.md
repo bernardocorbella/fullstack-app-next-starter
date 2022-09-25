@@ -2,7 +2,7 @@ This is a starter project for the [Build a Fullstack App from Scratch with Next.
 
 ### Background
 
-In the lesson [Setup Next.js, ESLint, & TypeScript](https://frontendmasters.com/courses/fullstack-app-next/setup-next-js-eslint-typescript/), Scott scaffolds a new app with `npx create-next-app`. However, there are some dependency conflicts with some of the package versions used in the course so the additional depenencies aren't able to be installed. This repository can be used as a starting point for the remainder of the course.
+In the lesson [Setup Next.js, ESLint, & TypeScript](https://frontendmasters.com/courses/fullstack-app-next/setup-next-js-eslint-typescript/), Scott scaffolds a new app with `npx create-next-app`. However, there are some dependency conflicts with some of the package versions used in the course so the additional dependencies aren't able to be installed. This repository can be used as a starting point for the remainder of the course.
 
 ### Instructions
 
